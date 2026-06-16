@@ -9,3 +9,6 @@ dependencies:
   - geopandas
   - metpy
   - lonboard
+  - s3fs
+  - zarr
+  - dask 
