@@ -16,6 +16,9 @@ project:
     - title: Introduction
       children:
         - file: notebooks/notebook-template.ipynb
+    - title: Examples 
+      children: 
+        - file: notebooks/reanalysis_comparison.ipynb
   jupyter:
       binder:
         url: https://binder.projectpythia.org
