@@ -14,3 +14,15 @@ dependencies:
   - dask 
   - seaborn
   - vim
+  - intake
+  - intake-parquet
+  - intake-xarray
+  - pgeocode
+  - pandas
+  - numpy
+  - hvplot
+  - holoviews
+  - shapely
+  - ipywidgets
+  - palettable
+  - sidecar
